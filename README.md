@@ -1,4 +1,4 @@
-# File-Sharing-Man
+# filesharingbot
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
@@ -37,7 +37,7 @@ cd File-Sharing-Man
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
-# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-Man
+# gunakan CTRL + X untuk keluar dan kembali ke direktori filesharingbot
 bash start
 ````
 
