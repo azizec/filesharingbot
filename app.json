@@ -1,5 +1,5 @@
 {
-  "name": "File Sharing Man",
+  "name": "filesharingbot",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "mrismanaziz"
+      "value": "azizec"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
