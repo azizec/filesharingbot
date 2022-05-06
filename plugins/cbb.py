@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
+# Recode by @azizec
 # t.me/filesharingbantuan1 & t.me/filesharingbantuan2
 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
