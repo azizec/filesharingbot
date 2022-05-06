@@ -1,6 +1,6 @@
 # (©)Codexbotz
 # Recode by @azizec
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/filesharingbantuan1 & t.me/filesharingbantuan2
 
 import asyncio
 import base64
