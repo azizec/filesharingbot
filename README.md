@@ -5,7 +5,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@SharingUserbot](https://www.telegram.dog/SharingUserbot)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@filesharingbantuan1](https://www.telegram.dog/filesharingbantuan1)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -33,7 +33,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/azizec/filesharingbot
-cd File-Sharing-Man
+cd filesharingbot
 pip3 install -r requirements.txt
 cp sample_config.env config.env
 # edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
@@ -92,7 +92,7 @@ bash start
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/SharingUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/filesharingbantuan1) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/filesharingbantuan2) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
