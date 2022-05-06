@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @azizec
+# t.me/filesharingbot1 & t.me/filesharingbot2
 
 import asyncio
 from datetime import datetime
