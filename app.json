@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/azizec/filesharingbot",
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+  "logo": "https://telegra.ph/file/b9c195ae46240ecc0abd7.png",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
