@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @azizec
+# t.me/filesharingbantuan1 & t.me/filesharingbantuan2
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
