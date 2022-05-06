@@ -1,6 +1,6 @@
 # Credits: @azizec
 # FROM filesharingbot <https://github.com/azizec/filesharingbot/>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/filesharingbantuan1 & t.me/filesharingbantuan2
 
 from config import FORCE_SUB_CHANNEL, FORCE_SUB_GROUP
 from pyrogram.types import InlineKeyboardButton
